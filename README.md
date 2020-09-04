@@ -5,4 +5,4 @@ Run-length encoding (RLE) is a form of lossless data compression in which runs o
 Compression ratio : 0.8
 
 ## Regenerated Image
-![]()
+![](https://github.com/Sankalp-koolwal/Run-length-code/blob/master/cameraman.tif)
